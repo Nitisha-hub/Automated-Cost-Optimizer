@@ -1,4 +1,4 @@
-# 💸 AWS Automated Cost Optimizer
+#  AWS Automated Cost Optimizer
 
 ## 📌 Overview
 
