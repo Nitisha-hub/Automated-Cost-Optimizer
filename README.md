@@ -1,4 +1,4 @@
-# 💸 AWS Automated Cost Optimizer
+#  AWS Automated Cost Optimizer
 
 ## 🎯 Project Objective
 Automatically reduce AWS cost by stopping unused EC2 instances.
