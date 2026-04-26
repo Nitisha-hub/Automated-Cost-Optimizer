@@ -38,7 +38,6 @@ To minimize unnecessary AWS spending by automatically shutting down idle or sele
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
