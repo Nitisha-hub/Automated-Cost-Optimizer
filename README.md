@@ -40,25 +40,22 @@ To minimize unnecessary AWS spending by automatically shutting down idle or sele
 
 ## 📸 Screenshots
 
-### 🖥️ EC2 Instance (Before Automation)
+## 📸 Screenshots
 
+### 🖥️ EC2 Instance (Before Automation)
 ![EC2 Running](screenshots/1-ec2-running.png)
 
 ### ⚡ Lambda Function Code
-
 ![Lambda Code](screenshots/2-lambda-code.png)
 
 ### 🧪 Lambda Execution Result
-
-![Lambda Success](screenshots/3-lambda-success.png)
+![Lambda Test](screenshots/3-lambda-success.png)
 
 ### 🛑 EC2 Instance (After Automation)
-
 ![EC2 Stopped](screenshots/4-ec2-stopped.png)
 
 ### ⏰ EventBridge Schedule
-
-![Schedule](screenshots/5-eventbridge-schedule.png)
+![EventBridge](screenshots/5-eventbridge-schedule.png)
 
 ---
 
