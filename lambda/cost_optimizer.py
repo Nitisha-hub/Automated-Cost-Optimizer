@@ -8,7 +8,7 @@ TARGET_INSTANCE_ID = "i-053037aa05547dbe8"
 def lambda_handler(event, context):
     response = ec2.describe_instances()
     stopped_instances = []
-
+                                                             
     for reservation in response['Reservations']:
         for instance in reservation['Instances']:
             instance_id = instance['InstanceId']
