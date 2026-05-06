@@ -6,7 +6,7 @@ This project automatically reduces AWS cloud costs by stopping unused EC2 instan
 
 It uses AWS Lambda and EventBridge Scheduler to monitor and control EC2 usage without manual intervention.
 
----
+---     
 
 ## 🎯 Objective
 
