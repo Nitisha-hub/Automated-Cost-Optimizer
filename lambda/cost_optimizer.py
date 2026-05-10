@@ -3,7 +3,7 @@ import boto3
 
 ec2 = boto3.client('ec2')       
 
-TARGET_INSTANCE_ID = "i-053037aa05547dbe8"
+TARGET_INSTANCE_ID = "i-053037aa05547dbe8"                    
 
 def lambda_handler(event, context):
     response = ec2.describe_instances()
